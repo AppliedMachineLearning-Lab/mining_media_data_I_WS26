@@ -1,6 +1,6 @@
 # Mining Media Data I WS26 (MA-INF 4117)
 
-Lectures will take place every Wednesday 15:00-16:30 at the B-IT, room 0.108 (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). The first lecture will take place on 21.10.26. Exercises will take place on selected Wednesdays from 13:00-14:30 at the B-IT, room 0.108. The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa/Dr. Lorenz Sparrenberg and Muskaan Chopra.
+Lectures will take place every Wednesday 16:00-17:30 at the B-IT, room 0.108 (will likely change!) (Friedrich-Hirzebruch-Allee 6, 53115 Bonn, Germany). The first lecture will take place on 21.10.26. Exercises will take place on selected Wednesdays from 14:00-15:30 at the B-IT, room 0.108 (will likely change!). The course has 4-ETCS credits and is taught by Prof. Dr. Rafet Sifa/Dr. Lorenz Sparrenberg and Muskaan Chopra.
 
 |                 Lecture | Date    | Lecure Content              |
 | ----------------------: | ------- | --------------------------- |
